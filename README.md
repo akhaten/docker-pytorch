@@ -51,10 +51,10 @@ To know more on remote development : https://docs.microsoft.com/en-us/learn/modu
 ## Step 4 : Put yours files
 
 Copy the files (.ipynb) in the directory docker-pytorch (it's your workspace)
-Your workspace is ready ! You can work.
+
 
 ## Step 5 : Build container
 
-Open the folder in a container with Ctrl+Shift+P and `Remote-Containers: Reopen in Containers`
+Open the folder in a container with Ctrl+Shift+P and `Remote-Containers: Reopen in Containers`. Your workspace is ready ! You can work.
 
 
